@@ -20,13 +20,13 @@
     "react-helmet": "^6.1.0",
     "react-razorpay": "^2.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^5.0.1",
+    
     "use-reducer-thunk": "^1.0.8",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "node server.js",
-    "build": "react-scripts build"
+    
   },
   "eslintConfig": {
     "extends": [
